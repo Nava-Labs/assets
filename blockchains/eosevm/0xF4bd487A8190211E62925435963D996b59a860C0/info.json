@@ -1,0 +1,11 @@
+{
+  "name": "Neutroswap",
+  "type": "ERC20",
+  "symbol": "NEUTRO",
+  "decimals": 18,
+  "website": "https://neutroswap.io/",
+  "description": "Neutroswap is an automated market-maker (AMM) on the EOS EVM blockchain that is community-driven and offers the lowest fees for swapping assets. ",
+  "explorer": "https://explorer.evm.eosnetwork.com/address/0xF4bd487A8190211E62925435963D996b59a860C0",
+  "status": "active",
+  "id": "0xF4bd487A8190211E62925435963D996b59a860C0"
+}
