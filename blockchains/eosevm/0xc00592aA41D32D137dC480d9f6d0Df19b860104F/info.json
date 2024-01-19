@@ -1,0 +1,11 @@
+{
+  "name": "WEOS",
+  "type": "ERC20",
+  "symbol": "WEOS",
+  "decimals": 18,
+  "website": "https://eosnetwork.com/",
+  "description": "EOS provides holders with several key benefits including a fast and secure medium of exchange, governance in the direction of the network, access to network resources and more.",
+  "explorer": "https://explorer.evm.eosnetwork.com/address/0xc00592aA41D32D137dC480d9f6d0Df19b860104F",
+  "status": "active",
+  "id": "0xc00592aA41D32D137dC480d9f6d0Df19b860104F"
+}
